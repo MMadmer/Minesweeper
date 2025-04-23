@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Minesweeper.gif" alt="Minesweeper Demo" />
+  <img src="ExtraFiles/Minesweeper.gif" alt="Minesweeper Demo" />
 </p>
 
 # Minesweeper Editor Tool
